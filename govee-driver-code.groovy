@@ -14,7 +14,7 @@ import hubitat.helper.ColorUtils
 
 metadata {
 	definition (
-		name: "Govee LED Strips",
+		name: "Govee Light",
 		version: "v2",
 		namespace: "dbdevelopment",
 		author: "Dean Berman",
